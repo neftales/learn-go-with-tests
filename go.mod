@@ -1,4 +1,4 @@
-module hello
+module github.com/neftales/learn-go-with-tests
 
 go 1.21.5
 
